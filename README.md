@@ -5,7 +5,7 @@ My hyprland config from CachyOS
 - It's just the config for keyboard, mouse and some other things.
 
 > [!CAUTION]
-> Don't use the setup, is outdated.
+> Don't use the setup, is outdated and can cause major problems.
 
 > [!NOTE]
 > - Change everything like you want, with your configurations. Use it like a template or smth.
